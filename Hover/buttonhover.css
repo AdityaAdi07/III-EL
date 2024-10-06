@@ -1,0 +1,92 @@
+.aboutus:hover{
+    cursor:pointer;
+    opacity:0.7;
+}
+
+.home:hover{
+    cursor:pointer;
+    opacity:0.7;
+}
+.logo:hover{
+    cursor:pointer;
+    opacity:0.7;
+}
+.Logintogetstarted:hover{
+    cursor:pointer;
+    opacity:0.7;
+}
+
+.signup:hover{
+    background-color:rgb(212, 210, 210);
+    cursor:pointer;
+}
+#loginbutton:hover{
+    opacity:0.7;
+    cursor:pointer;
+}
+
+.logouticon:hover{
+      opacity:0.7;
+      cursor:pointer;
+}
+
+.pavan:hover{
+    opacity:0.7;
+      cursor:pointer;
+}
+.maths:hover,
+.maths:focus {
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+    cursor:pointer;
+    opacity:0.8;
+
+}
+.physics:hover,
+.physics:focus{
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+    cursor:pointer;
+    opacity:0.8;
+}
+.kannada:hover,
+.kannada:focus{
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+    cursor:pointer;
+    opacity:0.8;
+}
+.idealab:hover,
+.idealab:focus{
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+    cursor:pointer;
+    opacity:0.8;
+}
+.electronics:hover,
+.electronics:focus{
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+    cursor:pointer;
+    opacity:0.8;
+}
+
+.attemptnow:hover{
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+    cursor:pointer;
+    opacity:0.8;
+
+}
+.gohomebutton:hover{
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+    cursor:pointer;
+    opacity:0.8;
+}
+
+#goback div:hover{
+    cursor:pointer;
+}
+
+

@@ -1,0 +1,13 @@
+.topbar {
+    display:flex;
+    flex-direction:row;
+    position: fixed;
+    top:0px;
+    height:70px;
+    border-bottom-width:1px;
+    border-bottom-color:white;
+    
+}
+.left_side{
+    background-color:black;
+}

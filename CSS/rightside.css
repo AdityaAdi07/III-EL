@@ -1,0 +1,9 @@
+.middle_side{
+    width:400px;
+    background-color: black;
+}
+.right_side{
+    width:500px;
+    display:flex;
+    background-color:black;
+}
